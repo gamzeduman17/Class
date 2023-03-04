@@ -78,58 +78,58 @@ namespace DONGUORNEK
             //Console.WriteLine("CONGRATS! {0}. TRY ", counter);
 
 
-            Console.WriteLine("PLEASE SELECT A PROCESS");
-            Console.WriteLine("1.ADD A VALUE \n 2.VALUE LIST \n 3.SEARCH A VALUE \n 4.EDIT VALUES \n 5.DELETE A VALUE \n 6.EXIT");
-            ArrayList valueList = new ArrayList();
-            int chose = Convert.ToInt32(Console.ReadLine());
-            switch (chose)
-            {
-                case 1:
-                    Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO ADD:");
-                    string value1 = Convert.ToString(Console.ReadLine());
-                    valueList.Add(value1);
-                    Console.WriteLine("ITEM ADDED SUCCESSFULLY!");
-                    break;
-                case 2:
-                    valueList.Sort();
-                    Console.WriteLine();
-                    break;
-                case 3:
-                    Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO SEARCH:");
-                    string value2 = Convert.ToString(Console.ReadLine());
-                    int indexValue = valueList.IndexOf(value2);
-                    Console.WriteLine(indexValue);
-                    break;
+            //Console.WriteLine("PLEASE SELECT A PROCESS");
+            //Console.WriteLine("1.ADD A VALUE \n 2.VALUE LIST \n 3.SEARCH A VALUE \n 4.EDIT VALUES \n 5.DELETE A VALUE \n 6.EXIT");
+            //ArrayList valueList = new ArrayList();
+            //int chose = Convert.ToInt32(Console.ReadLine());
+            //switch (chose)
+            //{
+            //    case 1:
+            //        Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO ADD:");
+            //        string value1 = Convert.ToString(Console.ReadLine());
+            //        valueList.Add(value1);
+            //        Console.WriteLine("ITEM ADDED SUCCESSFULLY!");
+            //        break;
+            //    case 2:
+            //        valueList.Sort();
+            //        Console.WriteLine();
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO SEARCH:");
+            //        string value2 = Convert.ToString(Console.ReadLine());
+            //        int indexValue = valueList.IndexOf(value2);
+            //        Console.WriteLine(indexValue);
+            //        break;
 
-                case 4:
-                    Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO RECHANGE:");
-                    string value3 = Convert.ToString(Console.ReadLine());
-                    bool control = valueList.Contains(value3);
-                    if (control == true)
-                    {
+            //    case 4:
+            //        Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO RECHANGE:");
+            //        string value3 = Convert.ToString(Console.ReadLine());
+            //        bool control = valueList.Contains(value3);
+            //        if (control == true)
+            //        {
 
-                        valueList.Remove(value3);
-                        Console.WriteLine("VALUE REMOVED SUCCESSFULLY");
-                        break;
-                    }
-                    else
-                        Console.WriteLine("SYSTEM COULD NOT FIND THE VALUE THAT YOU WANTED TO CHAGE");
-                    break;
-                case 5:
-                    Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO DELETE:");
-                    string value4 = Convert.ToString(Console.ReadLine());
-                    valueList.Remove(value4); Console.WriteLine("VALUE REMOVED SUCCESSFULLY");
-                    break;
+            //            valueList.Remove(value3);
+            //            Console.WriteLine("VALUE REMOVED SUCCESSFULLY");
+            //            break;
+            //        }
+            //        else
+            //            Console.WriteLine("SYSTEM COULD NOT FIND THE VALUE THAT YOU WANTED TO CHAGE");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("PLEASE WRITE THE VALUE THAT YOU WANT TO DELETE:");
+            //        string value4 = Convert.ToString(Console.ReadLine());
+            //        valueList.Remove(value4); Console.WriteLine("VALUE REMOVED SUCCESSFULLY");
+            //        break;
 
-                case 6:
-                    Console.WriteLine("GOODBYE!!!");
-                    
-                    break;
-                    System.Threading.Thread.Sleep(3000);
+            //    case 6:
+            //        Console.WriteLine("GOODBYE!!!");
+            //        System.Threading.Thread.Sleep(3000);
+            //        break;
+                 
 
 
 
-            }
+            //}
 
 
 
