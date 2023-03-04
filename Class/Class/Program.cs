@@ -10,9 +10,8 @@ namespace Class
     {
         static void Main(string[] args)
         {
-            //fsdfdsfdsf
-            ///dfsdfds
-            //dfskldfndskfdsjkfdsjf
+
+            
         }
     }
 }
