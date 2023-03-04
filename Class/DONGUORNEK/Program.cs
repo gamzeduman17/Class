@@ -11,30 +11,58 @@ namespace DONGUORNEK
         static void Main(string[] args)
         {
 
-            Random random = new Random();
-            int number = random.Next(1, 10);
-            int tahminAdedi = 1;
+            //Random random = new Random();
+            //int number = random.Next(1, 10);
+            //int tahminAdedi = 1;
 
-            while (true)
+            //while (true)
+            //{
+            //    Console.WriteLine("LÜTFEN TAHMİN ETTİĞİNİZ SAYIYI GİRİNİZ:");
+            //    int tahminSayisi = Convert.ToInt32(Console.ReadLine());
+
+            //    if (tahminSayisi == number)
+            //    {
+
+            //        Console.WriteLine("TEBRİKLER!!!SAYIYI {0}. DENEMEDE BİLDİNİZ.", tahminAdedi);
+            //        tahminAdedi++;
+            //        break;
+
+            //    }
+            //    else
+            //    {
+
+            //        Console.WriteLine("ÜZGÜNÜZ!!! SAYIYI {0}.DENEMEDE BİLEMEDİNİZ.", tahminAdedi);
+            //        tahminAdedi++;
+            //    }
+            //}
+
+
+
+            string name = string.Empty;
+            string pass = string.Empty;
+            int counter = 0;
+            do
             {
-                Console.WriteLine("LÜTFEN TAHMİN ETTİĞİNİZ SAYIYI GİRİNİZ:");
-                int tahminSayisi = Convert.ToInt32(Console.ReadLine());
+                if (counter > 0)
 
-                if (tahminSayisi == number)
-                {
+                Console.WriteLine("{0}.TRY! NAME OR PASSWORD IS WRONG! PLEASE TRY AGAIN...", counter);
+                Console.WriteLine("USER NAME:");
+                name = Console.ReadLine();
+                Console.WriteLine("PASSWORD:");
+                pass = Console.ReadLine();
 
-                    Console.WriteLine("TEBRİKLER!!!SAYIYI {0}. DENEMEDE BİLDİNİZ.", tahminAdedi);
-                    tahminAdedi++;
-                    break;
 
-                }
-                else
-                {
+                counter++;
 
-                    Console.WriteLine("ÜZGÜNÜZ!!! SAYIYI {0}.DENEMEDE BİLEMEDİNİZ.", tahminAdedi);
-                    tahminAdedi++;
-                }
-            }
+
+            } while (name.ToLower() != "demo" || pass.ToLower() != "demo");
+            Console.WriteLine("LOGGING SUCCESSFULLY! {0}.TRY", counter);
+
+
+
+
+
+
             Console.ReadLine();
         }
     }
