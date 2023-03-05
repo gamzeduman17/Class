@@ -10,8 +10,9 @@ namespace SortedList
     {
         static void Main(string[] args)
         {
-            ArrayList musteri1= new ArrayList(); 
-            ArrayList musteri2= new ArrayList();
+            ArrayList musteri1= new ArrayList();
+            musteri1.Add("GAMZE DUMAN \n ");
+          
             Console.WriteLine("HOŞGELDİNİZ");
            Console.WriteLine("GİRİŞ YAPMAK İÇİN 1'E BASINIZ.");
             System.Threading.Thread.Sleep(2000);
@@ -32,7 +33,7 @@ namespace SortedList
                     int secim1=Convert.ToInt32(Console.ReadLine());
                     switch(secim1)
                     {
-                        case 1: ascjkvhjzkxvczhj
+                        case 1: //ascjkvhjzkxvczhj
 
 
 

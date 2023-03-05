@@ -1,0 +1,16 @@
+C:\Kodlarım\Class\Class\SortedList\bin\Debug\SortedList.exe.config
+C:\Kodlarım\Class\Class\SortedList\bin\Debug\SortedList.exe
+C:\Kodlarım\Class\Class\SortedList\bin\Debug\SortedList.pdb
+C:\Kodlarım\Class\Class\SortedList\obj\Debug\MUSTERI.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\Class\SortedList\obj\Debug\MUSTERI.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\Class\SortedList\obj\Debug\MUSTERI.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\Class\SortedList\obj\Debug\SortedList.exe
+C:\Kodlarım\Class\Class\SortedList\obj\Debug\SortedList.pdb
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\obj\Debug\MUSTERI.csproj.AssemblyReference.cache
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\obj\Debug\MUSTERI.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\obj\Debug\MUSTERI.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\obj\Debug\SortedList.exe
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\obj\Debug\SortedList.pdb
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\bin\Debug\SortedList.exe.config
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\bin\Debug\SortedList.exe
+C:\Users\GAMZE\Desktop\Class-main\Class\SortedList\bin\Debug\SortedList.pdb

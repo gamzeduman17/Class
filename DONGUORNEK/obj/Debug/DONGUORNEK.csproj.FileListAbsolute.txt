@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\Class\DONGUORNEK\bin\Debug\DONGUORNEK.exe.config
+C:\Kodlarım\Class\Class\DONGUORNEK\bin\Debug\DONGUORNEK.exe
+C:\Kodlarım\Class\Class\DONGUORNEK\bin\Debug\DONGUORNEK.pdb
+C:\Kodlarım\Class\Class\DONGUORNEK\obj\Debug\DONGUORNEK.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\Class\DONGUORNEK\obj\Debug\DONGUORNEK.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\Class\DONGUORNEK\obj\Debug\DONGUORNEK.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\Class\DONGUORNEK\obj\Debug\DONGUORNEK.exe
+C:\Kodlarım\Class\Class\DONGUORNEK\obj\Debug\DONGUORNEK.pdb

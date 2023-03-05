@@ -15,8 +15,8 @@ namespace SortedList
         public int sifre;
         public int dogum_yili;
         public string sehir;
-        public int satinAlmaAdedi;
-        public MUSTERILER(string kullanici_ad, string mail, int tel_no, int sifre, int dogum_yili, string sehir, int satinAlmaAdedi)
+        public double satinAlmaAdedi;
+        public MUSTERILER(string kullanici_ad, string mail, int tel_no, int sifre, int dogum_yili, string sehir, double satinAlmaAdedi)
         {
             this.kullanici_ad = kullanici_ad;
             this.mail = mail;
@@ -31,11 +31,13 @@ namespace SortedList
 
         public double MusteriPuanHesabi()
         {
-            int satinAlmaAdedi;
-           double puan = satinAlmaAdedi * (10 / 100);// kırmızı nedeğğğğğnn :(((
+            double satinAlmaAdedi;
+            double puan = satinAlmaAdedi * (10 / 100);// kırmızı nedeğğğğğnn :(((
             return satinAlmaAdedi;
 
         }
+
+        public static int IndexOf(Array array, object? value, int startIndex);
 
     }
 }
