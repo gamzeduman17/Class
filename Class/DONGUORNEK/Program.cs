@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
+using System.Runtime.Remoting;
 
 namespace DONGUORNEK
 {
@@ -125,7 +126,7 @@ namespace DONGUORNEK
             //        Console.WriteLine("GOODBYE!!!");
             //        System.Threading.Thread.Sleep(3000);
             //        break;
-                 
+
 
 
 
@@ -133,7 +134,7 @@ namespace DONGUORNEK
 
 
 
-
+            ogrenci1[]  
 
 
 

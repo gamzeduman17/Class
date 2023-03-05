@@ -13,7 +13,7 @@ namespace SortedList
             ArrayList musteri1= new ArrayList(); 
             ArrayList musteri2= new ArrayList();
             Console.WriteLine("HOŞGELDİNİZ");
-            Console.WriteLine("GİRİŞ YAPMAK İÇİN 1'E BASINIZ.");
+           Console.WriteLine("GİRİŞ YAPMAK İÇİN 1'E BASINIZ.");
             System.Threading.Thread.Sleep(2000);
             Console.WriteLine("KAYITLI KULLANICI DEĞİLSENİZ KAYIT OLMAK İSTER MİSİNİZ??? \n EVET için E \n HAYIR için H");
            
@@ -32,7 +32,7 @@ namespace SortedList
                     int secim1=Convert.ToInt32(Console.ReadLine());
                     switch(secim1)
                     {
-                        case 1: 
+                        case 1: ascjkvhjzkxvczhj
 
 
 
