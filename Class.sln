@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{82A14717-E5A2-4FE6-B996-145BE58DFA15}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DONGUORNEK", "DONGUORNEK\DONGUORNEK.csproj", "{38203B08-2569-4DD3-8888-20BE21315807}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUSTERI", "SortedList\MUSTERI.csproj", "{B0C6697F-810E-4CA4-86C5-22A8A7C05E59}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82A14717-E5A2-4FE6-B996-145BE58DFA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82A14717-E5A2-4FE6-B996-145BE58DFA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82A14717-E5A2-4FE6-B996-145BE58DFA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82A14717-E5A2-4FE6-B996-145BE58DFA15}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38203B08-2569-4DD3-8888-20BE21315807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38203B08-2569-4DD3-8888-20BE21315807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38203B08-2569-4DD3-8888-20BE21315807}.Release|Any CPU.ActiveCfg = Release|Any CPU
