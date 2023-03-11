@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\INNERTYPE\bin\Debug\INNERTYPE.exe.config
+C:\Kodlarım\Class\OOP2\INNERTYPE\bin\Debug\INNERTYPE.exe
+C:\Kodlarım\Class\OOP2\INNERTYPE\bin\Debug\INNERTYPE.pdb
+C:\Kodlarım\Class\OOP2\INNERTYPE\obj\Debug\INNERTYPE.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\INNERTYPE\obj\Debug\INNERTYPE.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\INNERTYPE\obj\Debug\INNERTYPE.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\INNERTYPE\obj\Debug\INNERTYPE.exe
+C:\Kodlarım\Class\OOP2\INNERTYPE\obj\Debug\INNERTYPE.pdb

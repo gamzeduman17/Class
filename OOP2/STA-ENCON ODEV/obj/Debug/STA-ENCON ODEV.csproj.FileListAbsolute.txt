@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\bin\Debug\STA-ENCON ODEV.exe.config
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\bin\Debug\STA-ENCON ODEV.exe
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\bin\Debug\STA-ENCON ODEV.pdb
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\obj\Debug\STA-ENCON ODEV.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\obj\Debug\STA-ENCON ODEV.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\obj\Debug\STA-ENCON ODEV.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\obj\Debug\STA-ENCON ODEV.exe
+C:\Kodlarım\Class\OOP2\STA-ENCON ODEV\obj\Debug\STA-ENCON ODEV.pdb

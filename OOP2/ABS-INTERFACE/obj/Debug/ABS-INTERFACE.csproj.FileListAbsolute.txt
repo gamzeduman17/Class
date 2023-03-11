@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\bin\Debug\ABS-INTERFACE.exe.config
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\bin\Debug\ABS-INTERFACE.exe
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\bin\Debug\ABS-INTERFACE.pdb
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\obj\Debug\ABS-INTERFACE.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\obj\Debug\ABS-INTERFACE.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\obj\Debug\ABS-INTERFACE.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\obj\Debug\ABS-INTERFACE.exe
+C:\Kodlarım\Class\OOP2\ABS-INTERFACE\obj\Debug\ABS-INTERFACE.pdb
