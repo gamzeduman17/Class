@@ -16,8 +16,8 @@ namespace OOP1
         public int yakit_tipi;
         public int vites_tipi;
         public int alis_fiyati;
-        public decimal satis_fiyati;
-        public decimal maxIndirim_tutari;
+        public int satis_fiyati;
+        public int maxIndirim_tutari;
         public int fiyat;
 
 
