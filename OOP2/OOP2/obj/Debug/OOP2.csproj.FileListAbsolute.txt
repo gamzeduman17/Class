@@ -1,8 +1,0 @@
-C:\Kodlarım\Class\OOP2\OOP2\bin\Debug\OOP2.exe.config
-C:\Kodlarım\Class\OOP2\OOP2\bin\Debug\OOP2.exe
-C:\Kodlarım\Class\OOP2\OOP2\bin\Debug\OOP2.pdb
-C:\Kodlarım\Class\OOP2\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
-C:\Kodlarım\Class\OOP2\OOP2\obj\Debug\OOP2.csproj.SuggestedBindingRedirects.cache
-C:\Kodlarım\Class\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
-C:\Kodlarım\Class\OOP2\OOP2\obj\Debug\OOP2.exe
-C:\Kodlarım\Class\OOP2\OOP2\obj\Debug\OOP2.pdb

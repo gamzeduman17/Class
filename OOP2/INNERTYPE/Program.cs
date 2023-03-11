@@ -38,8 +38,7 @@ namespace INNERTYPE
             };
 
 
-
-
+          
 
             Console.WriteLine(m.musteriID);
             Console.WriteLine(m.kullaniciId);

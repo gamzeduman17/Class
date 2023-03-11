@@ -1,8 +1,0 @@
-C:\Kodlarım\Class\OOP2\STATIC\bin\Debug\STATIC.exe.config
-C:\Kodlarım\Class\OOP2\STATIC\bin\Debug\STATIC.exe
-C:\Kodlarım\Class\OOP2\STATIC\bin\Debug\STATIC.pdb
-C:\Kodlarım\Class\OOP2\STATIC\obj\Debug\STATIC.csproj.AssemblyReference.cache
-C:\Kodlarım\Class\OOP2\STATIC\obj\Debug\STATIC.csproj.SuggestedBindingRedirects.cache
-C:\Kodlarım\Class\OOP2\STATIC\obj\Debug\STATIC.csproj.CoreCompileInputs.cache
-C:\Kodlarım\Class\OOP2\STATIC\obj\Debug\STATIC.exe
-C:\Kodlarım\Class\OOP2\STATIC\obj\Debug\STATIC.pdb

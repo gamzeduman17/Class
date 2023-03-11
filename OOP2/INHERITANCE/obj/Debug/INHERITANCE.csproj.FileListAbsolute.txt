@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\INHERITANCE\bin\Debug\INHERITANCE.exe.config
+C:\Kodlarım\Class\OOP2\INHERITANCE\bin\Debug\INHERITANCE.exe
+C:\Kodlarım\Class\OOP2\INHERITANCE\bin\Debug\INHERITANCE.pdb
+C:\Kodlarım\Class\OOP2\INHERITANCE\obj\Debug\INHERITANCE.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\INHERITANCE\obj\Debug\INHERITANCE.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\INHERITANCE\obj\Debug\INHERITANCE.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\INHERITANCE\obj\Debug\INHERITANCE.exe
+C:\Kodlarım\Class\OOP2\INHERITANCE\obj\Debug\INHERITANCE.pdb

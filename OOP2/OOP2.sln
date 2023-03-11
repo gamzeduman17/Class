@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STA-ENCON ODEV", "STA-ENCON
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INNERTYPE", "INNERTYPE\INNERTYPE.csproj", "{B59EF689-C686-44F1-80B8-8CED26EF3882}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INHERITANCE", "INHERITANCE\INHERITANCE.csproj", "{0870EB13-106D-49DE-903A-228CC6623AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B59EF689-C686-44F1-80B8-8CED26EF3882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B59EF689-C686-44F1-80B8-8CED26EF3882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B59EF689-C686-44F1-80B8-8CED26EF3882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0870EB13-106D-49DE-903A-228CC6623AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0870EB13-106D-49DE-903A-228CC6623AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0870EB13-106D-49DE-903A-228CC6623AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0870EB13-106D-49DE-903A-228CC6623AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
