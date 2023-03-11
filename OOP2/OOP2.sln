@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{2D09BBF7-A02D-4588-BC7A-9422C37E242E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STATIC", "STATIC\STATIC.csproj", "{687ABFA6-7CB0-49AD-A07A-B6395F57418A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STA-ENCON ODEV", "STA-ENCON ODEV\STA-ENCON ODEV.csproj", "{AB9E03D8-7803-4DDB-8404-7F3E59A927BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2D09BBF7-A02D-4588-BC7A-9422C37E242E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D09BBF7-A02D-4588-BC7A-9422C37E242E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D09BBF7-A02D-4588-BC7A-9422C37E242E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687ABFA6-7CB0-49AD-A07A-B6395F57418A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687ABFA6-7CB0-49AD-A07A-B6395F57418A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687ABFA6-7CB0-49AD-A07A-B6395F57418A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687ABFA6-7CB0-49AD-A07A-B6395F57418A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9E03D8-7803-4DDB-8404-7F3E59A927BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9E03D8-7803-4DDB-8404-7F3E59A927BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9E03D8-7803-4DDB-8404-7F3E59A927BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9E03D8-7803-4DDB-8404-7F3E59A927BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
