@@ -11,6 +11,7 @@ namespace OOP2
     {
         int id;
         public string ad;
+        private string soyad;
         private string emailAdres;
         private string _tckimliknumarasi;
 
@@ -70,6 +71,15 @@ namespace OOP2
         {
             Random rnd = new Random();
             return rnd.Next(10000, 90000);
+        }
+
+        public string SOYAD
+        {
+            get { return this.soyad; }
+            set
+            {
+                this.emailAdres = string.Format("{0}.{1}@gmail.com", ad, soyad);
+            }
         }
     }
 }

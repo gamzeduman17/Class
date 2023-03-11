@@ -13,13 +13,9 @@ namespace OOP2
 
             Musteri m=  new Musteri();
             m.ad = "GAMZE";
+            m.SOYAD = "duman";
+           Console.WriteLine(m.ad,m.SOYAD);
 
-
-
-
-            m.tckimliknumarasi = "15878521579";
-
-            Console.WriteLine(m.tckimliknumarasi);
 
 
 
