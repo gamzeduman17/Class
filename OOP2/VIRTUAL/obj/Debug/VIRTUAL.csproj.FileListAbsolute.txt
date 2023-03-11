@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\VIRTUAL\bin\Debug\VIRTUAL.exe.config
+C:\Kodlarım\Class\OOP2\VIRTUAL\bin\Debug\VIRTUAL.exe
+C:\Kodlarım\Class\OOP2\VIRTUAL\bin\Debug\VIRTUAL.pdb
+C:\Kodlarım\Class\OOP2\VIRTUAL\obj\Debug\VIRTUAL.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\VIRTUAL\obj\Debug\VIRTUAL.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\VIRTUAL\obj\Debug\VIRTUAL.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\VIRTUAL\obj\Debug\VIRTUAL.exe
+C:\Kodlarım\Class\OOP2\VIRTUAL\obj\Debug\VIRTUAL.pdb

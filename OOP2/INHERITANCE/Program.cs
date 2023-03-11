@@ -32,6 +32,9 @@ namespace INHERITANCE
             B1.satisFiyat = 1400M;
             B1.kampanyaFiyat = 1500M;
             B1.barkod = "KDJGASFK";
+            B1.ram = "12";
+            B1.ekranKarti = "DASF";
+            B1.marka = "Q";
 
             sanalDatabase.yeniurunEkle(B1);
 

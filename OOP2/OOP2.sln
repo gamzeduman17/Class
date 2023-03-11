@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INNERTYPE", "INNERTYPE\INNE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INHERITANCE", "INHERITANCE\INHERITANCE.csproj", "{0870EB13-106D-49DE-903A-228CC6623AA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIRTUAL", "VIRTUAL\VIRTUAL.csproj", "{A49D88CC-1932-4962-A516-FF84E69869FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0870EB13-106D-49DE-903A-228CC6623AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0870EB13-106D-49DE-903A-228CC6623AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0870EB13-106D-49DE-903A-228CC6623AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49D88CC-1932-4962-A516-FF84E69869FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49D88CC-1932-4962-A516-FF84E69869FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49D88CC-1932-4962-A516-FF84E69869FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49D88CC-1932-4962-A516-FF84E69869FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
