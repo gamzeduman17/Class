@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\PARTIAL\bin\Debug\PARTIAL.exe.config
+C:\Kodlarım\Class\OOP2\PARTIAL\bin\Debug\PARTIAL.exe
+C:\Kodlarım\Class\OOP2\PARTIAL\bin\Debug\PARTIAL.pdb
+C:\Kodlarım\Class\OOP2\PARTIAL\obj\Debug\PARTIAL.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\PARTIAL\obj\Debug\PARTIAL.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\PARTIAL\obj\Debug\PARTIAL.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\PARTIAL\obj\Debug\PARTIAL.exe
+C:\Kodlarım\Class\OOP2\PARTIAL\obj\Debug\PARTIAL.pdb
