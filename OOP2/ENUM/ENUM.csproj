@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Musteri.cs" />
+    <Compile Include="musteriReturnValue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sanalDatabase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
