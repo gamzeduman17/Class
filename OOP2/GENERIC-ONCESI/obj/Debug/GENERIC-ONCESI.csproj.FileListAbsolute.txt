@@ -1,0 +1,8 @@
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\bin\Debug\GENERIC-ONCESI.exe.config
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\bin\Debug\GENERIC-ONCESI.exe
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\bin\Debug\GENERIC-ONCESI.pdb
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\obj\Debug\GENERIC-ONCESI.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\obj\Debug\GENERIC-ONCESI.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\obj\Debug\GENERIC-ONCESI.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\obj\Debug\GENERIC-ONCESI.exe
+C:\Kodlarım\Class\OOP2\GENERIC-ONCESI\obj\Debug\GENERIC-ONCESI.pdb
