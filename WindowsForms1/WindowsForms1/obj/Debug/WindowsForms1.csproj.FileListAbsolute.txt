@@ -1,0 +1,13 @@
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe.config
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.pdb
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.AssemblyReference.cache
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.SuggestedBindingRedirects.cache
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.anaFormcs.resources
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Form1.resources
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Form2.resources
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Properties.Resources.resources
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.GenerateResource.cache
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.CoreCompileInputs.cache
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.exe
+C:\Kodlarım\Class\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.pdb
